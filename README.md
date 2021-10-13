@@ -1,4 +1,5 @@
-# college labprograms in c program
+# LABPROGRAMS BCA 1 c program
+
 1. Write a C program to find the area of a circle given radius.
 2. Write a C program to find the area of a triangle given three sides.
 3. Write a C program to calculate simple interest and compound interest.
